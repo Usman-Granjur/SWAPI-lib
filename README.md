@@ -132,7 +132,7 @@ npx react-native run-ios
 npx react- native run-android
 ```
 
-(Note: this test is only fro React Native App, You must have React Native Cli setup)
+(Note: this test is only for React Native App, You must have React Native Cli setup)
 
 # Examples:
 
